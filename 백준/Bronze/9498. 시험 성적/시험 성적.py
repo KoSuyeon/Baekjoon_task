@@ -12,3 +12,10 @@ elif score>=60:
     print('D')
 else :
     print('F')
+
+"""
+숏코딩
+
+print('FFFFFFDCBAA'[int(input())//10])
+
+"""
