@@ -9,3 +9,7 @@ for _ in range(n):
             
 area=sum(map(sum,m))
 print(area)
+
+"""
+print(len({(int(s[:2])+i//10,int(s[2:])+i%10)for s in[*open(0)][1:]for i in range(100)}))
+"""
