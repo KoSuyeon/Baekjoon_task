@@ -9,3 +9,9 @@ for i in range(9):
 
 print(m)     
 print(max_pos[0],max_pos[1])
+
+"""
+n=open(0).read().split()
+print(n[i:=n.index(max(n,key=int))],i//9+1,i%9+1)
+#i//9+1, i%9+1 : 0 기반 인덱스를 1 기반으로 변환하기 위함
+"""
